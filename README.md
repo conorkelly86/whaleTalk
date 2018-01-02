@@ -1,0 +1,2 @@
+# whaleTalk
+Learning Javascript: Loops
